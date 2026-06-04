@@ -1,7 +1,7 @@
 # Thesis
-# Daily Lifestyle and Academic Performance of Students
+## XAI-Powered Web Application for Predicting Student Academic Performance Using Behavioral and Lifestyle Features
 
-## About Dataset
+### About Dataset
 This dataset contains data from **2,000 students** collected via a Google Form survey.
 It includes information on study hours, extracurricular activities, sleep, socializing,
 physical activity, stress levels, and CGPA.
@@ -14,7 +14,7 @@ and student well-being.
 
 ---
 
-## File Information
+### File Information
 
 | Property        | Details                                              |
 |-----------------|------------------------------------------------------|
@@ -25,7 +25,7 @@ and student well-being.
 
 ---
 
-## Column Names
+### Column Names
 
 | Column Name               | Description                        |
 |---------------------------|------------------------------------|
@@ -39,7 +39,7 @@ and student well-being.
 | CGPA                      | Cumulative Grade Point Average     |
 
 ---
-## Data Source
+### Data Source
 - Source: **Kaggle**
 - Dataset Link: [Daily Lifestyle and Academic Performance of Students](https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset)
 - Collected via **Google Form Survey**
